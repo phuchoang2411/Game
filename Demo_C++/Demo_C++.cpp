@@ -1,10 +1,11 @@
-// Demo_C++.cpp : This file contains the 'main' function. Program execution begins and ends there.
+﻿// Demo_C++.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
 #include <iostream>
 using namespace std;
  int main()
  {
-    std::cout << "Hello World!\n";
+    cout << "Hello World!\n";
+    cout << "Quyet tam qua mon";
  }
 
